@@ -36,25 +36,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['94701430687'] //ur owner number
+global.ownername = " ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka, Uva province, Badulla" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94701430687']
+global.ownertag = '94701430687' //ur tag number
+global.botnumber = '94701430687' //Add your Bot Number For Log
+global.botname = 'Whatsapp bot- ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²" //ur sticker watermark packname
+global.author = " ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94701430687'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
